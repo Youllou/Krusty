@@ -96,12 +96,12 @@ __-----------------------------**Dev Notes**-----------------------------__
             title="Commandes",
             description="""Voici quelques commandes que vous pouvez utiliser :
 
-</help:1279478282487726103> `language` : Obtenez de l'aide, la langue peut être `English` ou `Francais`
+</help:1279538522025365610> `language` : Obtenez de l'aide, la langue peut être `English` ou `Francais`
 
 __-----------------------------**Ballons**-----------------------------__
-</balloon_register:1279478282487726106> : Rejoignez le jeu de ballon ! Qui aura le plus de ballons à la fin ?
-</balloon_buy:1279478282487726104> `secret` (Optionnel) : Achetez un nouveau ballon ! (Un ballon secret peut être obtenu avec le bon mot de passe)
-</balloon_see:1279478282487726105> `player` : Regarde ta progression ! (Ou celle des autres)
+</balloon_register:1279538522025365613> : Rejoignez le jeu de ballon ! Qui aura le plus de ballons à la fin ?
+</balloon_buy:1279538522025365611> `secret` (Optionnel) : Achetez un nouveau ballon ! (Un ballon secret peut être obtenu avec le bon mot de passe)
+</balloon_see:1279538522025365612> `player` : Regarde ta progression ! (Ou celle des autres)
 
 
 __---------------------------**Notes de Dev**--------------------------__

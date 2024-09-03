@@ -54,12 +54,12 @@ class HelpChooser(discord.ui.View):
             title="Commands",
             description="""Here are some commands you can use:
             
-</help:1279478282487726103> `language` : Get help, language can be `English` or `Francais`
+</help:1279538522025365610> `language` : Get help, language can be `English` or `Francais`
 
 __-----------------------------**Balloons**-----------------------------__
-</balloon_register:1279478282487726106> : Join the balloon game ! Who will have the most balloons at the end ?
-</balloon_buy:1279478282487726104> `secret` (Optional) : Buy a new balloon ! (A secret balloon can be obtain with the correct password)
-</balloon_see:1279478282487726105> `player` : Check your (and other's) progression !
+</balloon_register:1279538522025365613> : Join the balloon game ! Who will have the most balloons at the end ?
+</balloon_buy:1279538522025365611> `secret` (Optional) : Buy a new balloon ! (A secret balloon can be obtain with the correct password)
+</balloon_see:1279538522025365612> `player` : Check your (and other's) progression !
 
 
 

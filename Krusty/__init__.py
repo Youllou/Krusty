@@ -49,7 +49,7 @@ async def setup_guild_for_ctf(guild: discord.Guild):
     else:
         ctf_channel = await guild.create_text_channel('what-is-this', overwrites=overwrites)
         # send the message to the channel
-        await ctf_channel.send(os.getenv('CTF_CHANNEL_MESSAGE'))
+        await ctf_channel.send("FLAG: "+os.getenv('CTF_CHANNEL_MESSAGE'))
 
     # give the privileged role to the members who had it before
     for member in privileged_members:
